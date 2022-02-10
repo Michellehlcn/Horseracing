@@ -225,10 +225,10 @@ def whatsapp_alert():
 
 def main():
 	#SEND ALERT AT 12PM
-	'''print('------SCRIPT 1-----')
+	print('------SCRIPT 1-----')
 	script1_run()
 	print('------SCRIP 2------')
-	Process_file()'''
+	Process_file()
 	print('------SCRIPT 3-----')
 	punter()
 	process()
